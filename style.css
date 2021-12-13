@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background: black;
+    padding: 20px 0;
+}
+li{
+    display: inline-block;
+    font-size: 26px;
+    list-style: none ;
+    margin: 0 30px 0 0 ;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+}
+.navbar-brend{
+    display: inline-block;
+    font-size: 28px;    
+    color: springgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul{
+    display: inline-block;
+    margin-left: 30rem;
+}
+.container{
+    width: 75%;
+    margin: 0 auto;
+}
+.main{
+    background: #000;
+    text-align: center;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 50px;
+    color: lightseagreen;
+}
+.list{
+    margin: 80px 100px 100px 80px;
+    padding: 20px 20px 20px 40px;
+    text-align: start;
+    border-radius: 5px;
+    border:double springgreen;
+}
+.inlist{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.Border{
+    background: red;
+    border-radius: 10px;
+    color: white;
+    width: 20%;
+    padding: 10px;
+    margin: 10% auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.aza1{
+    color: white;
+}
+footer{
+    background: #000;
+    text-align: center;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    padding: 0;
+}
+.aza2{
+    text-decoration: underline white ;
+}
+.p1{
+    margin: 30px;
+    color: lightseagreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
